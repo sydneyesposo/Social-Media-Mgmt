@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Monitor" max_length="40" name="x_738708_social_0_monitor" sizeclass="0" type="collection">
+        <element label="Assessment notes" max_length="1000" name="assessment_notes" type="string"/>
+        <element label="Other" max_length="40" name="other" type="string"/>
+        <element label="Our response" max_length="1000" name="our_response" type="string"/>
+        <element label="Reply" max_length="40" name="reply" type="boolean"/>
+        <element label="Social Media Problem" max_length="32" name="social_media_problem" reference="x_738708_social_0_problem" type="reference"/>
+        <element choice="1" label="Source" max_length="40" name="source" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Facebook" sequence="0" value="Facebook"/>
+                <element inactive_on_update="false" label="Instagram" sequence="1" value="Instagram"/>
+                <element inactive_on_update="false" label="LinkedIn" sequence="2" value="LinkedIn"/>
+                <element inactive_on_update="false" label="Snapchat" sequence="3" value="Snapchat"/>
+                <element inactive_on_update="false" label="Twitter" sequence="4" value="Twitter"/>
+                <element inactive_on_update="false" label="Other" sequence="5" value="Other"/>
+            </choice>
+        </element>
+        <element choice="1" label="Type" max_length="40" name="type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Positive" sequence="0" value="Positive"/>
+                <element inactive_on_update="false" label="Negative" sequence="1" value="Negative"/>
+            </choice>
+        </element>
+        <element label="URL" max_length="1024" name="url" type="url"/>
+        <element label="User's handle(s)" max_length="250" name="user_s_handle_s" type="string"/>
+        <element label="Valid concern" max_length="40" name="valid_concern" type="boolean"/>
+    </element>
+</database>

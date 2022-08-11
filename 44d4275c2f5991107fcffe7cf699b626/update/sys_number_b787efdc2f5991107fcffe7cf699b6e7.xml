@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_738708_social_0_monitor">x_738708_social_0_monitor</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SMM</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 06:42:54</sys_created_on>
+        <sys_id>b787efdc2f5991107fcffe7cf699b6e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SMM</sys_name>
+        <sys_package display_value="Social Media Management" source="x_738708_social_0">44d4275c2f5991107fcffe7cf699b626</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">44d4275c2f5991107fcffe7cf699b626</sys_scope>
+        <sys_update_name>sys_number_b787efdc2f5991107fcffe7cf699b6e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 06:42:54</sys_updated_on>
+    </sys_number>
+</record_update>

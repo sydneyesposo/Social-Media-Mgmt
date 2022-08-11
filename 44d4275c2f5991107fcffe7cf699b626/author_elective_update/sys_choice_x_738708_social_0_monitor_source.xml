@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="source" table="x_738708_social_0_monitor" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>source</element>
+            <name>x_738708_social_0_monitor</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>sydney.e</sys_created_by>
+            <sys_created_on>2022-08-11 02:43:23</sys_created_on>
+            <sys_id>995affa02f99d1107fcffe7cf699b6c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>source</sys_name>
+            <sys_package display_value="Social Media Management" source="x_738708_social_0">44d4275c2f5991107fcffe7cf699b626</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Social Media Management">44d4275c2f5991107fcffe7cf699b626</sys_scope>
+            <sys_update_name>sys_choice_x_738708_social_0_monitor_source</sys_update_name>
+            <sys_updated_by>sydney.e</sys_updated_by>
+            <sys_updated_on>2022-08-11 02:43:23</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facebook</label>
+            <language>en</language>
+            <name>x_738708_social_0_monitor</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>sydney.e</sys_created_by>
+            <sys_created_on>2022-08-11 02:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a4a7b242f99d1107fcffe7cf699b65a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sydney.e</sys_updated_by>
+            <sys_updated_on>2022-08-11 02:43:23</sys_updated_on>
+            <value>Facebook</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Instagram</label>
+            <language>en</language>
+            <name>x_738708_social_0_monitor</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>sydney.e</sys_created_by>
+            <sys_created_on>2022-08-11 02:43:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>886af3e02f99d1107fcffe7cf699b6a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sydney.e</sys_updated_by>
+            <sys_updated_on>2022-08-11 02:43:35</sys_updated_on>
+            <value>Instagram</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LinkedIn</label>
+            <language>en</language>
+            <name>x_738708_social_0_monitor</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>sydney.e</sys_created_by>
+            <sys_created_on>2022-08-11 02:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa6af3e02f99d1107fcffe7cf699b6ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sydney.e</sys_updated_by>
+            <sys_updated_on>2022-08-11 02:43:46</sys_updated_on>
+            <value>LinkedIn</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Snapchat</label>
+            <language>en</language>
+            <name>x_738708_social_0_monitor</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>sydney.e</sys_created_by>
+            <sys_created_on>2022-08-11 02:43:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>397a37ec2f59d1107fcffe7cf699b69e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sydney.e</sys_updated_by>
+            <sys_updated_on>2022-08-11 02:43:58</sys_updated_on>
+            <value>Snapchat</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Twitter</label>
+            <language>en</language>
+            <name>x_738708_social_0_monitor</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>sydney.e</sys_created_by>
+            <sys_created_on>2022-08-11 02:44:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>588afb242f99d1107fcffe7cf699b6fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sydney.e</sys_updated_by>
+            <sys_updated_on>2022-08-11 02:44:09</sys_updated_on>
+            <value>Twitter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_738708_social_0_monitor</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>sydney.e</sys_created_by>
+            <sys_created_on>2022-08-11 02:44:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b68abbe02f99d1107fcffe7cf699b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sydney.e</sys_updated_by>
+            <sys_updated_on>2022-08-11 02:44:19</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

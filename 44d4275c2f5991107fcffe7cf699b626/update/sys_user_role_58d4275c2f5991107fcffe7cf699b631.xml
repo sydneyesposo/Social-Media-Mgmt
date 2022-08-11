@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_738708_social_0.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 06:30:54</sys_created_on>
+        <sys_id>58d4275c2f5991107fcffe7cf699b631</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_738708_social_0.user</sys_name>
+        <sys_package display_value="Social Media Management" source="x_738708_social_0">44d4275c2f5991107fcffe7cf699b626</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">44d4275c2f5991107fcffe7cf699b626</sys_scope>
+        <sys_update_name>sys_user_role_58d4275c2f5991107fcffe7cf699b631</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 06:30:54</sys_updated_on>
+    </sys_user_role>
+</record_update>

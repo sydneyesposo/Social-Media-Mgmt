@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="url" label="URL" language="en" table="x_738708_social_0_monitor">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>url</element>
+            <help/>
+            <hint/>
+            <label>URL</label>
+            <language>en</language>
+            <name>x_738708_social_0_monitor</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-10 06:57:56</sys_created_on>
+            <sys_id>c80b6fd02f9991107fcffe7cf699b663</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>URL</sys_name>
+            <sys_package display_value="Social Media Management" source="x_738708_social_0">44d4275c2f5991107fcffe7cf699b626</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Social Media Management">44d4275c2f5991107fcffe7cf699b626</sys_scope>
+            <sys_update_name>sys_documentation_x_738708_social_0_monitor_url_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-10 06:59:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
