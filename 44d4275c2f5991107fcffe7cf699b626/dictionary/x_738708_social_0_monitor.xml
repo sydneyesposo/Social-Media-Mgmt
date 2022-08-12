@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Monitor" max_length="40" name="x_738708_social_0_monitor" sizeclass="0" type="collection">
+    <element extends="task" label="Monitor" max_length="40" name="x_738708_social_0_monitor" sizeclass="6" type="collection">
         <element label="Assessment notes" max_length="1000" name="assessment_notes" type="string"/>
         <element label="Other" max_length="40" name="other" type="string"/>
         <element label="Our response" max_length="1000" name="our_response" type="string"/>

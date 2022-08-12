@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD938dcecd0851551077a082a281f71be3</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>44d4275c2f5991107fcffe7cf699b626</scope_name>
+        <serialized_content>{"FlowDesigner:FD938dcecd0851551077a082a281f71be3":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD938dcecd0851551077a082a281f71be3.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"360b3ae2-770b-43f1-a5b6-be7e77d1f414\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD938dcecd0851551077a082a281f71be3\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>sydney.e</sys_created_by>
+        <sys_created_on>2022-08-12 08:05:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>578dcecd2f5155107fcffe7cf699b6e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD938dcecd0851551077a082a281f71be3</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Social Media Management" source="x_738708_social_0">44d4275c2f5991107fcffe7cf699b626</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">44d4275c2f5991107fcffe7cf699b626</sys_scope>
+        <sys_update_name>sys_complex_object_578dcecd2f5155107fcffe7cf699b6e3</sys_update_name>
+        <sys_updated_by>sydney.e</sys_updated_by>
+        <sys_updated_on>2022-08-12 08:05:05</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
